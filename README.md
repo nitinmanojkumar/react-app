@@ -1,3 +1,5 @@
+# react-app
+<<<<<<< HEAD
 #Create react app project named my-app
 npx create-react-app my-app  
 #navigate to my-app project folder
@@ -78,3 +80,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# react-app
+>>>>>>> 20d4295ff620230da23aea8c34b094c702ac55ac
